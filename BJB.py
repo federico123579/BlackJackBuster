@@ -71,6 +71,7 @@ while choice == 'y':
  if dec == 3:
      cp3 = ifOne(raw_input("Che carta hai ricevuto?\n"))
      tot += cp3
+     print(tot)
      if tot > 21:
          print(statements[5]) 
  choice = raw_input("Vuoi rigiocare?(y/n)\n")

@@ -53,7 +53,7 @@ Come si può facilmente intuire, le carte peggiori per il casinò sono il 5 e il
 |---|---|---|---|---|---|---|---|---|---|---|
 | **Hi-Lo** | +1 | +1 | +1 | +1 | +1 | 0 | 0 | 0 | -1 | -1 |
 | **Hi-Opt I** | 0 | +1 | +1 | +1 | +1 | 0 | 0 | 0 | -1 | 0 |
-| [**Hi-Opt II**](https://github.com/federico123579/BlackJackBuster/blob/master/documentation/Hi-OptII.md) | +1 | +1 | +2 | +2 | +1 | +1 | 0 | 0 | -2 | 0 |
+| [**Hi-Opt II**](Hi-OptII.MD) | +1 | +1 | +2 | +2 | +1 | +1 | 0 | 0 | -2 | 0 |
 | **KO** | +1 | +1 | +1 | +1 | +1 | +1 | 0 | 0 | -1 | -1 |
 | **Omega II** | +1 | +1 | +2 | +2 | +2 | +1 | 0 | -1 | -2 | 0 |
 | **Red 7** | +1 | +1 | +1 | +1 | +1 | +0.5 | 0 | 0 | -1 | -1 |
